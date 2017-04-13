@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PrivatBankInfo</string>
+
+    <string name="app_hint_input_city">Город</string>
+    <string name="app_hint_input_address">Адрес</string>
+
+    <string name="card_device_type_with_arguments">Тип: %1$s</string>
+    <string name="card_device_city_with_arguments">Город: %1$s</string>
+    <string name="card_device_address_with_arguments">Адрес: %1$s</string>
+    <string name="card_device_place_with_arguments">Место: %1$s</string>
+
+    <string name="toast_search_input_warning">Пожалуйста, введите город</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_result_is_empty">Ничего мы не нашли, измените запрос и повторите поиск</string>
+</resources>
